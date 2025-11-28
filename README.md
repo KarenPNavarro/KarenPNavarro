@@ -1,4 +1,7 @@
-## printf("Hello there!") 👋
+## Where there's a will, there's a code 👩🏻‍💻
+
+Hi👋 I'm Karen a Jr. Front-End Developer and Psychology Graduate based in Puerto Rico. 
+Currently studying to become a Full-Stack Software Engineer. 
 
 <!--
 **KarenPNavarro/KarenPNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
