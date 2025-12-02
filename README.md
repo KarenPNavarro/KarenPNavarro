@@ -1,6 +1,6 @@
 ## Where there's a will, there's a code 👩🏻‍💻
 
-Hi👋 I'm Karen a Jr. Front-End Developer and Psychology Graduate based in Puerto Rico. 
+Hi👋 I'm Karen, Jr. Front-End Developer and Psychology Graduate based in Puerto Rico. 
 Currently studying to become a Full-Stack Software Engineer. 
 
 I'm passionate about projects that combine technology and human behavior, including AI-driven tools and mental health applications.
@@ -10,18 +10,3 @@ Lets connect:
 [LinkedIn](https://www.linkedin.com/in/karen-p-navarro/)
 [Email Me](mailto:karennavarrofigueroa@protonmail.com)
 [Instagram](https://www.instagram.com/karenxpaola/#)
-
-<!--
-**KarenPNavarro/KarenPNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
