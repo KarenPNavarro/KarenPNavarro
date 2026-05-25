@@ -8,6 +8,5 @@ I'm passionate about projects that combine technology and human behavior, includ
 Lets connect:
 
 [LinkedIn](https://www.linkedin.com/in/karen-p-navarro/)
-[Email Me](mailto:karennavarrofigueroa@protonmail.com)
 [Instagram](https://www.instagram.com/karenxpaola/#)
 [TikTok](https://www.tiktok.com/@karenxpaola?_r=1&_t=ZP-93eWC3KEkvf)
