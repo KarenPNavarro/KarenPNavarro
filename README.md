@@ -9,5 +9,5 @@ Lets connect:
 
 [Website](https://karennavarro.com/)
 [LinkedIn](https://www.linkedin.com/in/karen-p-navarro/)
-[Instagram](https://www.instagram.com/karenxpaola/#)
+[Instagram](https://www.instagram.com/karennavarropr)
 [TikTok](https://www.tiktok.com/@karenxpaola?_r=1&_t=ZP-93eWC3KEkvf)
